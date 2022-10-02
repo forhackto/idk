@@ -1,3 +1,3 @@
 # idk
 
-golang temps
+golang temp
